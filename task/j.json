@@ -1,0 +1,59 @@
+[
+  {
+    "repeated": 0,
+    "needRepeat": 0,
+    "user": {
+      "firstName": "User2",
+      "surname": "User2",
+      "email": "user2@user2.by",
+      "password": "user2",
+      "status": "OK",
+      "role": "USER",
+      "id": 8
+    },
+    "murphyUnit": {
+      "number": 88,
+      "name": "Предлог OF и английские местоимения Когда нужен предлог OF с местоимениями",
+      "id": 523
+    },
+    "id": 318
+  },
+  {
+    "repeated": 0,
+    "needRepeat": 0,
+    "user": {
+      "firstName": "User2",
+      "surname": "User2",
+      "email": "user2@user2.by",
+      "password": "user2",
+      "status": "OK",
+      "role": "USER",
+      "id": 8
+    },
+    "murphyUnit": {
+      "number": 26,
+      "name": "Учим модальные глаголы сan, could, be able to | Грамматика английского языка среднего уровня",
+      "id": 461
+    },
+    "id": 291
+  },
+  {
+    "repeated": 0,
+    "needRepeat": 0,
+    "user": {
+      "firstName": "User2",
+      "surname": "User2",
+      "email": "user2@user2.by",
+      "password": "user2",
+      "status": "OK",
+      "role": "USER",
+      "id": 8
+    },
+    "murphyUnit": {
+      "number": 34,
+      "name": "Модальный глагол SHOULD - часть 2",
+      "id": 469
+    },
+    "id": 299
+  }
+]
